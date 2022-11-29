@@ -1,23 +1,33 @@
-# NavigatorApp
-This app was created to practice the skills learned in the mobile applications class of the software engineering career at PUCE MANABI.
+OMNITRIX NAVI
 
-Navigator app has a four fragments and one of them shows a review of the Ecuadorian players.
+PASO 1
+ABRIR LA APLICACIÓN
 
 
-<img width="296" alt="image" src="https://user-images.githubusercontent.com/91089863/204340157-50438cf3-c202-4871-ad1e-890408cb3113.png"> <img width="294" alt="image" src="https://user-images.githubusercontent.com/91089863/204340238-61e42f96-f3b7-437c-82b3-78bf7248b27d.png"> <img width="293" alt="image" src="https://user-images.githubusercontent.com/91089863/204340405-14c7aa27-fd30-4a75-9d77-73da5f9a134a.png">
+![image](https://user-images.githubusercontent.com/115014062/204454290-5cead368-ee71-41a6-afd8-52bfd5ca7859.png)
 
-## 🤖 Getting started 
-1. Copy this line:
-```
-https://github.com/LuisRoft/NavigatorApp.git
-```
-2. Go to:
-![image](https://user-images.githubusercontent.com/91089863/201412203-a7dcc91e-db0e-4ef0-8969-e51eee940853.png)
 
-3. Paste:
-![image](https://user-images.githubusercontent.com/91089863/201412440-d371be92-7e9b-411c-b6ab-cd58eeff2178.png)
+PASO 2
+TOCAR LAS 3 BARRAS DE LA IZQUIERDA SUPERIOR
 
-Download APK: https://github.com/LuisRoft/NavigatorApp/releases/tag/1.0
+![image](https://user-images.githubusercontent.com/115014062/204454440-5a383015-ae6a-48ab-92ee-57f5ac1aa782.png)
 
-And ready 🥳, enjoy!
+
+PASO 3
+TOCAR DONDE DICE "ALIENS"
+
+![image](https://user-images.githubusercontent.com/115014062/204454550-9c8b35ed-8f47-49df-afd0-385385743910.png)
+
+PASO 4
+DESLIZAR PARA VER LOS 10 ALIENS
+
+![image](https://user-images.githubusercontent.com/115014062/204454661-538d44fd-816d-48ca-b2fc-4262c46a5930.png)
+
+
+
+![image](https://user-images.githubusercontent.com/115014062/204454694-6a40aefe-4f7f-4545-88b6-220283f4a7b2.png)
+
+
+
+
 
